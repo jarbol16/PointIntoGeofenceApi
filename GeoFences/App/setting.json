@@ -1,0 +1,12 @@
+{
+    "DB":{
+            "id":"",
+            "port":0,
+            "server":"",
+            "db_name":"",
+            "user":"",
+            "pass":"",
+            "lastget":0
+        }
+
+}
